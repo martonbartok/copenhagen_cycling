@@ -1,2 +1,5 @@
 # Cycling traffic in the City of Copenhagen 🚲
-This project aims to uncover patterns in hourly bicycle traffic by analyzing historical traffic data. Our goal is to understand how cycling traffic fluctuates throughout the day at various locations in the city and how factors such as weather conditions and public holidays impact the number of cyclists on Copenhagen's roads.
+
+Copenhagen is well-known for it's well-established cycling infrastructure, with around 400 kilometers of cyclepaths threading through the city. According to the [2022 Copenhagen Bicycle Account](https://kk.sites.itera.dk/apps/kk_pub2/index.asp?mode=detalje&id=2420), around 62% of the citizens of Copenhagen cycle several times a week. There are around 745,800 bicycles in the Danish capital, which is more than five times the number of cars in Copenhagen.
+
+This project aims to uncover patterns in hourly bicycle traffic by analyzing historical traffic data. Our goal is to understand how cycling traffic fluctuates throughout the day at various locations in the city and how factors such as weather conditions and public holidays impact the number of cyclists on Copenhagen's roads. Ultimately, we aim to develop a machine learning model capable of predicting bicycle traffic for any given hour using weather forecasts and other publicly available data.
